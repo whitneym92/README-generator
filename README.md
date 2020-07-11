@@ -38,7 +38,7 @@
   ## Test
   
   this is the test
-  [readme generator.png]
+  ![readme generator.png](https://github.com/whitneym92/README-generator/blob/master/readme%20generator.png)
   
   
   ## Repository
