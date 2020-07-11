@@ -40,7 +40,8 @@
   
   this is the test
   ![readme generator.png](https://github.com/whitneym92/README-generator/blob/master/readme%20generator.png)
-  <iframe src="https://drive.google.com/file/d/19wc0jUWXtlw5FXk3p6blqKejfg1D5d9W/preview" width="640" height="480"></iframe>
+  View video here:
+  https://drive.google.com/file/d/19wc0jUWXtlw5FXk3p6blqKejfg1D5d9W/view
   
   
   ## Repository
