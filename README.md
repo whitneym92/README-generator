@@ -1,7 +1,9 @@
 
   # **README generator**
   
-  https://opensource.org/licenses/MIT
+  # README_Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   
   ## Description 
   
@@ -29,7 +31,7 @@
   
   ## Licence
   
-  https://opensource.org/licenses/MIT
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Contributors
   
