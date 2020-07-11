@@ -6,6 +6,9 @@
   
   ## Description 
   
+  View video here:
+  https://drive.google.com/file/d/19wc0jUWXtlw5FXk3p6blqKejfg1D5d9W/view
+  
   This is a command line application that dynamically generates a professional README based off user input using the inquirer package from npm.
   
   ## Table of contents
@@ -40,8 +43,7 @@
   
   this is the test
   ![readme generator.png](https://github.com/whitneym92/README-generator/blob/master/readme%20generator.png)
-  View video here:
-  https://drive.google.com/file/d/19wc0jUWXtlw5FXk3p6blqKejfg1D5d9W/view
+  
   
   
   ## Repository
